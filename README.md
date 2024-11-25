@@ -1,3 +1,4 @@
+readmefile
 
 # Chatbot for Mental health
 
@@ -25,3 +26,6 @@ Confidentiality: Ensures conversations remain private and secure.
 
 This chatbot is ideal for individuals seeking emotional support or guidance in handling day-to-day stressors and building resilience.
 
+
+don't use offensive words
+main
